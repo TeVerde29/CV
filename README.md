@@ -9,8 +9,6 @@ Repositorio de currículum: plantilla base reutilizable + CV real actualizado. S
 
 Contacto: +51 922 149 396 · pedro.ricra.figueroa@gmail.com · Pucallpa, Perú · [GitHub](https://github.com/TeVerde29) · [LinkedIn](http://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433)
 
-> Nota: este repo no tiene `.github/copilot/` ni `copilot-instructions.md`. Este README se generó desde el contenido real de los `.docx`.
-
 ## Stack tecnológico
 
 Repositorio:
